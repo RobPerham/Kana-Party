@@ -1,5 +1,5 @@
 # Kana-Party
 
 MY AIM for this Project 
-this is webiste is for help me learn as tool
-help me build word in differnet langs
+this is website is for help me learn as a tool
+help me build words in different langs
